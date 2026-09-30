@@ -1,7 +1,6 @@
 # XR Interaction Challenge
 
-- **Apellidos y nombres:** Calderón, Diego _(reemplaza si el orden real es distinto)_
-- **Código del estudiante:** _[completar]_
+- **Apellidos y nombres:** Calderón, Diego
 - **Curso:** Laboratorio de Realidad Extendida (XR) para Videojuegos
 - **Docente:** Victor Alejandro Arroyo Castro
 
@@ -27,10 +26,10 @@ Sala de entrenamiento XR con piso, iluminación direccional, límites visuales (
 
 ## Evidencias
 
-- Captura 1 — Vista general del escenario: _[agregar imagen]_
-- Captura 2 — Configuración XR / Inspector: _[agregar imagen]_
-- Captura 3 — Interacción funcionando: _[agregar imagen]_
-- Video demostrativo (máx. 1 min): _[agregar enlace]_
+- Captura 1 — Vista general del escenario: 
+- Captura 2 — Configuración XR / Inspector: 
+- Captura 3 — Interacción funcionando: 
+- Video demostrativo (máx. 1 min): 
 
 ## Tecnologías y paquetes utilizados
 
